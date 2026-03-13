@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone: America/Toronto
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -28,20 +28,16 @@ url: "https://hpaulat.github.io"
 github:
   username: hpaulat # change to your GitHub username
 
-twitter:
-  username: hpaulat # change to your Twitter username
+# twitter:
+# username: hpaulat # change to your Twitter username
 
 social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Hugo Paulat
-  email: hugo.paulat@gmail.com # change to your email address
+  email: hugo.paulat@gmail.com
   links:
-    # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/hugopaulat/# change to your Twitter homepage
-    - https://github.com/hpaulat # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    # The first link is used for the copyright link in the footer
+    - https://www.linkedin.com/in/hugopaulat/
+    - https://github.com/hpaulat
 
 # Site Verification Settings
 webmaster_verifications:
