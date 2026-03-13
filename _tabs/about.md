@@ -9,7 +9,7 @@ Hey! My name's Hugo, and I'm currently a senior at McGill University studying Co
 I'm currently working at the Ding Lab as an undergraduate student. My work centers around utilizing graph neural networks to segment cells in spatial transcriptomics settings.
 
 ![Hugo Paulat](/assets/img/segmentation1.png){: width="325" .left .mr-3} ![Hugo Paulat](/assets/img/segmentation2.png){: width="325" .left}
-<div class="clearfix"></div>
+<div style="clear: both;"></div>
 
 In my free time, I really enjoy hanging out with friends, going to music festivals, and being in the outdoors. I also really, really love fishing. I would do anything to be by the water.
 
