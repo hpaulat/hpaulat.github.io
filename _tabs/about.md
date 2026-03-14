@@ -22,7 +22,7 @@ I'm currently working at the **Ding Lab** as an undergraduate student. My work c
 </div>
 <div class="clearfix" style="margin-top: 20px;"></div>
 
-In my free time, I really enjoy hanging out with friends, going to music festivals, and being in the outdoors. I also really, really love **fishing**. I would do anything to be by the water.</p>
+In my free time, I really enjoy hanging out with friends, going to music festivals, and being in the outdoors. I also really, really love **fishing**. I would do anything to be by the water.
 
 <div style="display: flex; align-items: flex-start; gap: 10px; width: 100%;">
   <div style="flex: 1;">
