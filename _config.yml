@@ -14,6 +14,7 @@ timezone: America/Toronto
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+# The title of your site, used in the meta title tag and the copyright notice in the footer.
 title: Hugo Paulat # the main title
 
 tagline: Computer Science and Biology at McGill # it will display as the subtitle
